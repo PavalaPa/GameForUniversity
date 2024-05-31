@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pushable
+  - Cross
+  - BlockBox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Buttons
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3953884081
+    locked: 0
+  - name: Buttons
+    uniqueID: 3595474929
+    locked: 0
+  - name: TilemapOverlay
+    uniqueID: 2311278175
+    locked: 0
+  - name: IUOverlay
+    uniqueID: 3593550079
+    locked: 0
